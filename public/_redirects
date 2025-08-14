@@ -1,0 +1,5 @@
+# 所有 hajimi 子路径的请求都指向 hajimi 目录下的 index.html
+/* /index.html 200
+
+# 根路径访问自动跳转到 hajimi 子路径（可选）
+/ / 301
